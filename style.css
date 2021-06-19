@@ -1,0 +1,51 @@
+h1{
+    font-size:4rem; 
+}
+h2{
+    font-size:4rem;
+   float: uppercase;
+   
+}
+a{
+    color:rgb(255, 255, 255)
+
+}
+h3{
+    font-size: 3rem;
+    color:rgb(0, 0, 0);
+    
+}
+nav{
+    background: rgb(4, 46, 88);
+    color:whitesmoke;
+}
+.open{
+    background-image:url("/2019-Dodge-Viper-redesign.jpg") ;
+    height: 55rem;
+    background-size: cover;
+    background-position: center;
+    text-align:center;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    text-shadow: 3px 3px 10px black;
+}
+nav h1{
+    float:left ;
+    color:rgb(255, 255, 255);
+}
+nav ul{
+    float:right;
+    list-style: none ;
+}
+nav li{
+    float:left;
+    margin: 0rem 4rem;
+}
+.clear{
+  clear:both;
+}
+h4{
+    color:purple;
+    font-size:4rem;
+    background-color: black;
+}
